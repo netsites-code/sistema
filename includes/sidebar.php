@@ -104,121 +104,59 @@
   <li class="nav-item">
     <a class="nav-link" href="/contratos-arrendamento"><i class="fas fa-fw fa-file-signature"></i><span>Arrendamento</span></a>
   </li>
-  <hr class="sidebar-divider d-none d-md-block">
-  <div class="text-center d-none d-md-inline">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <div class="sidebar-heading">Financeiro</div>
   <li class="nav-item">
-    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseContas" aria-expanded="true" aria-controls="collapseContas">
-      <i class="fas fa-fw fa-calendar"></i>
+    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+      <i class="fas fa-fw fa-users"></i>
       <span>Contas a pagar e a Receber</span>
     </a>
-    <div id="collapseContas" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-     
+    <div id="collapse1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="#">Incluir conta</a>
-        
-          <a class="collapse-item" href="#">Listar contas</a>
-      
+        <a class="collapse-item" href="aaaaaaa">Incluir contaListar contas</a>
+        <a class="collapse-item" href="aaaaaaa">Listar contas</a>
+      </div>
+    </div>
   </li>
-  
-  
-  
   <li class="nav-item">
-  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBoletos" aria-expanded="true" aria-controls="collapseBoletos">
-      <i class="fas fa-fw fa-credit-card"></i>
+    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities2" aria-expanded="true" aria-controls="collapseUtilities2">
+      <i class="fas fa-fw fa-home"></i>
       <span>Boletos</span>
     </a>
-    <div id="collapseBoletos" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-     
+    <div id="collapseUtilities2" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="#">Gerar boletos de alugueis</a>
-        
-          <a class="collapse-item" href="#">Gerar boleto avulso</a>
-          
-          <a class="collapse-item" href="#">Listar Boletos</a>
-      
-    </li>
-    
-    
-    
-    
-    
-   
+        <a class="collapse-item" href="aaa" target="_Blank">Gerar boletos de alugueis</a>
+        <a class="collapse-item" href="aaa" target="_Blank">Gerar boleto avulso</a>
+        <a class="collapse-item" href="aaa" target="_Blank">Listar Boletos</a>
+      </div>
+    </div>
+  </li>
   <li class="nav-item">
-  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapserepasse" aria-expanded="true" aria-controls="collapserepasse">
-      <i class="fas fa-fw fa-chevron-right"></i>
+    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities3" aria-expanded="true" aria-controls="collapseUtilities3">
+      <i class="fas fa-fw fa-home"></i>
       <span>Repasse de alugueis</span>
     </a>
-    <div id="collapserepasse" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-     
+    <div id="collapseUtilities3" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="#">Alugueis a Repassar</a>
-        
-          <a class="collapse-item" href="#">Histórico</a>
-          
-         
-      
-    </li> 
-    
-    
-  
-   
+        <a class="collapse-item" href="aaa" target="_Blank">Alugueis a Repassar</a>
+        <a class="collapse-item" href="aaa" target="_Blank">Histórico</a>
+      </div>
+    </div>
+  </li>
   <li class="nav-item">
-  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCaixa" aria-expanded="true" aria-controls="collapserepasse">
-      <i class="fas fa-fw fa-chevron-right"></i>
-      <span>Repasse de alugueis</span>
-    </a>
-    <div id="collapserepasse" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-     
-      <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="#">Alugueis a Repassar</a>
-        
-          <a class="collapse-item" href="#">Histórico</a>
-          
-         
-      
-    </li> 
-    
-    
-    
-    
-   
-  <li class="nav-item">
-  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseCaixa" aria-expanded="true" aria-controls="collapseCaixa">
-      <img src="../imgs/icones/cif2.png" alt="" width="32" height="32" title="Bootstrap">
+    <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities4" aria-expanded="true" aria-controls="collapseUtilities4">
+      <i class="fas fa-fw fa-home"></i>
       <span>Caixa</span>
     </a>
-    <div id="collapseCaixa" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-     
+    <div id="collapseUtilities4" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="#">Incluir entrada</a>
-        
-          <a class="collapse-item" href="#">Incluir saída</a>
-          
-         
-         
-          <a class="collapse-item" href="#">Relatórios</a>
-      
-    </li> 
-  
-  
-  </div>
-  
-  
-  
-  
-    <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
-  
+        <a class="collapse-item" href="aaa" target="_Blank">Incluir entrada</a>
+        <a class="collapse-item" href="aaa" target="_Blank">Incluir saída</a>
+        <a class="collapse-item" href="aaa" target="_Blank">Relatórios</a>
+      </div>
+    </div>
+  </li>
+  <hr class="sidebar-divider d-none d-md-block">
+  <div class="text-center d-none d-md-inline">
     <button class="rounded-circle border-0" id="sidebarToggle"></button>
   </div>
 </ul>
