@@ -124,9 +124,9 @@
     </a>
     <div id="collapseUtilities2" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="aaa" target="_Blank">Gerar boletos de alugueis</a>
-        <a class="collapse-item" href="aaa" target="_Blank">Gerar boleto avulso</a>
-        <a class="collapse-item" href="aaa" target="_Blank">Listar Boletos</a>
+        <a class="collapse-item" href="aaa">Gerar boletos de alugueis</a>
+        <a class="collapse-item" href="aaa">Gerar boleto avulso</a>
+        <a class="collapse-item" href="aaa">Listar Boletos</a>
       </div>
     </div>
   </li>
@@ -137,8 +137,8 @@
     </a>
     <div id="collapseUtilities3" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="aaa" target="_Blank">Alugueis a Repassar</a>
-        <a class="collapse-item" href="aaa" target="_Blank">Histórico</a>
+        <a class="collapse-item" href="aaa">Alugueis a Repassar</a>
+        <a class="collapse-item" href="aaa">Histórico</a>
       </div>
     </div>
   </li>
@@ -149,9 +149,9 @@
     </a>
     <div id="collapseUtilities4" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="aaa" target="_Blank">Incluir entrada</a>
-        <a class="collapse-item" href="aaa" target="_Blank">Incluir saída</a>
-        <a class="collapse-item" href="aaa" target="_Blank">Relatórios</a>
+        <a class="collapse-item" href="aaa">Incluir entrada</a>
+        <a class="collapse-item" href="aaa">Incluir saída</a>
+        <a class="collapse-item" href="aaa">Relatórios</a>
       </div>
     </div>
   </li>
