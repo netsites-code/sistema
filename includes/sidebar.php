@@ -112,7 +112,7 @@
     </a>
     <div id="collapse1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
       <div class="bg-white py-2 collapse-inner rounded">
-        <a class="collapse-item" href="aaaaaaa">Incluir contaListar contas</a>
+        <a class="collapse-item" href="/incluir-conta">Incluir conta</a>
         <a class="collapse-item" href="aaaaaaa">Listar contas</a>
       </div>
     </div>
