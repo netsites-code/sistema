@@ -107,7 +107,7 @@
   <div class="sidebar-heading">Financeiro</div>
   <li class="nav-item">
     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
-      <i class="fas fa-fw fa-users"></i>
+      <i class="fas fa-comments-dollar"></i>
       <span>Contas a pagar e a Receber</span>
     </a>
     <div id="collapse1" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -119,7 +119,7 @@
   </li>
   <li class="nav-item">
     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities2" aria-expanded="true" aria-controls="collapseUtilities2">
-      <i class="fas fa-fw fa-home"></i>
+      <i class="fas fa-barcode"></i>
       <span>Boletos</span>
     </a>
     <div id="collapseUtilities2" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
@@ -144,7 +144,7 @@
   </li>
   <li class="nav-item">
     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities4" aria-expanded="true" aria-controls="collapseUtilities4">
-      <i class="fas fa-fw fa-home"></i>
+      <i class="fas fa-university"></i>
       <span>Caixa</span>
     </a>
     <div id="collapseUtilities4" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
