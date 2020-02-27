@@ -1,17 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<!--HEAD ADICIONADO POR LAURO -->
-
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		
-		<link href="calendario/css/bootstrap-datepicker.css" rel="stylesheet"/>
-		<script src="calendario/js/bootstrap-datepicker.min.js"></script> 
-		<script src="calendario/js/bootstrap-datepicker.pt-BR.min.js" charset="UTF-8"></script>
-<!--FIM DO HEAD ADICIONADO POR LAURO -->
-
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href="calendario/css/bootstrap-datepicker.css" rel="stylesheet"/>
+<script src="calendario/js/bootstrap-datepicker.min.js"></script> 
+<script src="calendario/js/bootstrap-datepicker.pt-BR.min.js" charset="UTF-8"></script>
 <?php include_once("includes/head.php"); ?>
 <body id="page-top">
   <div id="wrapper">
@@ -32,34 +25,25 @@
 				                  	<div class="col-sm-6 mb-3 mb-sm-0">
 				                    	<input type="text" class="form-control form-control-user" placeholder="Descrição" name="descricao" required>
 				                  	</div>
-				                  	
 				                  	<div class="col-sm-6">
 				                    	<input type="text" class="form-control form-control-user" placeholder="Valor" name="valor" type="number" required>
-				  
-</div>
-</div>
-				                    	
-			<div class="form-group row">		                    	<div class="col-sm-6">
-				                    		<input type="text" class="form-control form-control-user" placeholder="Recebedor ou Pagador" name="quem" required>
-				                    
-				                 </div>   
-				                    		
-				                    <div class="col-sm-6">	
-							<input type="text" class="form-control form-control-user" id="data" name="data" placeholder="Data" >
-							
-								<span class="glyphicon glyphicon-th"></span>
-						
-						
-								
-				            <script type="text/javascript">
-			$('#data').datepicker({	
-				format: "dd/mm/yyyy",	
-				language: "pt-BR",
-				startDate: '+0d',
-			});
-		</script>        		
-				                    		
-				                  </div>		
+				                    </div>
+				                </div>
+				                <div class="form-group row">
+				                	<div class="col-sm-6">
+				                		<input type="text" class="form-control form-control-user" placeholder="Recebedor ou Pagador" name="quem" required>
+				                	</div>
+				                	<div class="col-sm-6">
+				                		<input type="text" class="form-control form-control-user" id="data" name="data" placeholder="Data">
+				                		<span class="glyphicon glyphicon-th"></span>
+				                		<script type="text/javascript">
+											$('#data').datepicker({	
+												format: "dd/mm/yyyy",	
+												language: "pt-BR",
+												startDate: '+0d',
+											});
+										</script>
+				                  	</div>		
 				                </div>
 				              	<div class="form-group row">
 				              		<div class="col-sm-6 mb-3 mb-sm-0">
